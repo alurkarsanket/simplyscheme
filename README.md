@@ -1,2 +1,2 @@
-# simplyscheme
-Introduction to computer science and programming. Insights, Ideas, Solutions to the exercises.
+# simply scheme
+Introduction to computer science and programming. New Paradigms, Insights and Ideas.
